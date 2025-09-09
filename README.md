@@ -38,7 +38,7 @@ NPS = % de Promotores - % de Detratores
 
 ## 📊 Exemplo do Dashboard  
 
-![Dashboard NPS](./screenshot.png)  
+<img width="1103" height="613" alt="image" src="https://github.com/user-attachments/assets/d558395b-9da1-42b9-95ee-1260c5dc60b1" />
 *(substitua `screenshot.png` pelo nome da imagem do seu print do dashboard neste repositório)*  
 
 ---
@@ -67,7 +67,3 @@ Feito com dedicação por **Isaac Maciel** 🚀
 🔗 [LinkedIn](https://www.linkedin.com/in/isaac-bessa-044a14321/)  
 
 ---
-
-
-
-<img width="1103" height="613" alt="image" src="https://github.com/user-attachments/assets/d558395b-9da1-42b9-95ee-1260c5dc60b1" />
